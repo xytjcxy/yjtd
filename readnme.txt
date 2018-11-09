@@ -1,0 +1,2 @@
+cmd cd到该文件夹下
+运行命令pyinstaller main.spec即可生成exe文件
